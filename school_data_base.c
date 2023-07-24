@@ -1,5 +1,5 @@
 
-#define "school_data_base.h
+#include "school_data_base.h
 bool SDB_IsFull()
 {
     if(SDB.Number_Of_Entries==(Max_Size_Data_Base-1))
