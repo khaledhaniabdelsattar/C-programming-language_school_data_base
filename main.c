@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <stdbool.h>
-#define "school_data_base.h"
+#include "school_data_base.h"
     
 
 
